@@ -21,7 +21,7 @@ Existing files:
 To scrape and preapare from scratch:
 - `WotWiki.py`: Main script. Scrapes the fandom given an initial page.
 - `clear_tags.py`: Creates a taglist and filters some unnecessary ones for better visualization.
-- `count_links.py`: Counts the number of links between pages (3,325 pages and 50,860 links)
+- `pagecount.py`: Counts the number of links between pages (currently: 3,325 pages + 50,860 links)
 
 ## Visualization
 You may wish to do some manual cleaning before starting, though `clear_tags.py` script should be enough for most cases. Obsidian is used for all visualization purposes.
